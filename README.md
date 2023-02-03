@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 👨‍💻 All of my projects are available at [Gauravanand015.github.io](Gauravanand015.github.io)
+- 👨‍💻 All of my projects are available at [https://Gauravanand015.github.io](https://Gauravanand015.github.io)
 
 - 💬 Ask me about **Node Js**
 
